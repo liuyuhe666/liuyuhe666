@@ -1,8 +1,20 @@
-## Hi there 👋
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=liuyuhe666&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuyuhe666&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+
+<table>
+  <tr>
+    <td>
+      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=liuyuhe666&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true" />
+    </td>
+    <td>
+      <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuyuhe666&hide_title=true&hide_border=true&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+
 
 <!--
+## Hi there 👋
 **liuyuhe666/liuyuhe666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
