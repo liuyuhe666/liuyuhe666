@@ -40,7 +40,7 @@
 
 ## Recent Writing ...
 
-<ul><li><span>25/06/2024 - <a href=https://hellolyh.xlog.app/Fork-de-xiang-mu-ru-he-tong-bu-ta-ren-xin-zeng-de-fen-zhi>Fork 的项目如何同步他人新增的分支</a></span></li><li><span>25/06/2024 - <a href=https://hellolyh.xlog.app/IDEA-guan-bi-lou-dong-jian-cha>IDEA 关闭漏洞检查</a></span></li><li><span>25/06/2024 - <a href=https://hellolyh.xlog.app/shi-yong-ffmpeg-fen-li-shi-pin-liu-he-yin-pin-liu>使用 ffmpeg 分离视频流和音频流</a></span></li><li><span>25/06/2024 - <a href=https://hellolyh.xlog.app/WSL2-fang-wen-Windows-zhu-ji>WSL2 访问 Windows 主机</a></span></li><li><span>25/06/2024 - <a href=https://hellolyh.xlog.app/Ubuntu-2204-kai-qi-daytime-fu-wu>Ubuntu 22.04 开启 daytime 服务</a></span></li></ul>
+<!-- recent_posts_inject -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liuyuhe666/liuyuhe666/snake/snake-dark.svg">
@@ -48,6 +48,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/liuyuhe666/liuyuhe666/snake/snake.svg">
 </picture>
 
-<p align=center><strong>雄关漫道真如铁，而今迈步从头越</strong></p>
+<!-- motto -->
 
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2024/6/25 17:04<br>下一次刷新：2024/6/26 17:04</p>
+<!-- footer_inject -->
