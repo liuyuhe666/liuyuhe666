@@ -75,7 +75,7 @@ async function main() {
                 title: cur.metadata.content.title,
                 slug: cur.metadata.content.slug,
                 summary: cur.metadata.content.summary,
-                created: cur.createAt
+                created: cur.createdAt
             };
             return acc.concat(generatePostItemHTML(post));
         }, '');
