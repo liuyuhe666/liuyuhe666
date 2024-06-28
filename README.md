@@ -1,17 +1,4 @@
-## Liu Yuhe 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=liuyuhe666.README)
-
-<picture>
-  <source
-    srcset="https://github-readme-stats-blond-nine-25.vercel.app/api?username=liuyuhe666&show_icons=true&theme=dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-blond-nine-25.vercel.app/api?username=liuyuhe666&show_icons=true&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-blond-nine-25.vercel.app/api?username=liuyuhe666&show_icons=true&hide_border=true" align=right />
-</picture>
-
+![github-header-image](./assets/github-header-image.png)
 
 - 👨‍💻 I'm always eager to learn new things 🌟
 - 🤝 I'm looking to connect with interesting people and collaborate on cool projects
@@ -19,7 +6,7 @@
 - 💬 Ask me about anything [here](https://github.com/liuyuhe666/liuyuhe666/issues)
 - 📫 Talk with me by [Email](mailto:cnliuyuhe@gmail.com)
 
-## Languages and Tools 💻
+## Languages and Tools
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>
@@ -42,12 +29,48 @@
 
 <ul><li><span>05/06/2024 - <a href=https://hellolyh.xlog.app/Fork-de-xiang-mu-ru-he-tong-bu-ta-ren-xin-zeng-de-fen-zhi>Fork 的项目如何同步他人新增的分支</a></span></li><li><span>22/04/2024 - <a href=https://hellolyh.xlog.app/IDEA-guan-bi-lou-dong-jian-cha>IDEA 关闭漏洞检查</a></span></li><li><span>11/04/2024 - <a href=https://hellolyh.xlog.app/shi-yong-ffmpeg-fen-li-shi-pin-liu-he-yin-pin-liu>使用 ffmpeg 分离视频流和音频流</a></span></li><li><span>14/02/2024 - <a href=https://hellolyh.xlog.app/WSL2-fang-wen-Windows-zhu-ji>WSL2 访问 Windows 主机</a></span></li><li><span>24/01/2024 - <a href=https://hellolyh.xlog.app/Ubuntu-2204-kai-qi-daytime-fu-wu>Ubuntu 22.04 开启 daytime 服务</a></span></li></ul>
 
+## GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source
+          srcset="https://github-readme-stats-blond-nine-25.vercel.app/api?username=liuyuhe666&show_icons=true&theme=dark&hide_border=true"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats-blond-nine-25.vercel.app/api?username=liuyuhe666&show_icons=true&hide_border=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats-blond-nine-25.vercel.app/api?username=liuyuhe666&show_icons=true&hide_border=true"/>
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source
+          srcset="https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&theme=dark&hide_border=true"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&hide_border=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&hide_border=true"/>
+      </picture>
+    </td>
+  </tr>
+</table>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liuyuhe666/liuyuhe666/snake/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liuyuhe666/liuyuhe666/snake/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/liuyuhe666/liuyuhe666/snake/snake.svg">
 </picture>
 
+
+
 <p align=center><strong>雄关漫道真如铁，而今迈步从头越</strong></p>
 
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/28/24, 10:23 AM<br>下一次刷新：6/29/24, 10:23 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2024/6/28 11:25<br>下一次刷新：2024/6/29 11:25</p>
