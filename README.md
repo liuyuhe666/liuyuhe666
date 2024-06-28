@@ -87,4 +87,4 @@
 
 <p align=center><strong>雄关漫道真如铁，而今迈步从头越</strong></p>
 
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2024/6/28 18:00<br>下一次刷新：2024/6/29 18:00</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/28/24, 6:01 PM<br>下一次刷新：6/29/24, 6:01 PM</p>
