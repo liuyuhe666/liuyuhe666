@@ -31,7 +31,7 @@
 
 ## GitHub Stats
 
-<table>
+<table align="center">
   <tr>
     <td>
       <picture>
@@ -63,14 +63,16 @@
 </table>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liuyuhe666/liuyuhe666/snake/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liuyuhe666/liuyuhe666/snake/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/liuyuhe666/liuyuhe666/snake/snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liuyuhe666/liuyuhe666/snake/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liuyuhe666/liuyuhe666/snake/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/liuyuhe666/liuyuhe666/snake/snake.svg">
+  </picture>
+</p>
 
 
 
 <p align=center><strong>雄关漫道真如铁，而今迈步从头越</strong></p>
 
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/28/24, 11:28 AM<br>下一次刷新：6/29/24, 11:28 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/28/24, 3:34 PM<br>下一次刷新：6/29/24, 3:34 PM</p>
