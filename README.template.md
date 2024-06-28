@@ -31,7 +31,7 @@
 
 ## GitHub Stats
 
-<table>
+<table align="center">
   <tr>
     <td>
       <picture>
@@ -63,11 +63,13 @@
 </table>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liuyuhe666/liuyuhe666/snake/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liuyuhe666/liuyuhe666/snake/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/liuyuhe666/liuyuhe666/snake/snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liuyuhe666/liuyuhe666/snake/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liuyuhe666/liuyuhe666/snake/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/liuyuhe666/liuyuhe666/snake/snake.svg">
+  </picture>
+</p>
 
 
 
