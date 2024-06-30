@@ -87,7 +87,9 @@
   </picture>
 </p>
 
-
+<p align="center">
+  <img alt="nextjs-moe-counter" src="https://nextjs-moe-counter.vercel.app/api/counter?name=liuyuhe666.README&theme=asoul" />
+</p>
 
 <!-- motto -->
 
