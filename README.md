@@ -87,8 +87,10 @@
   </picture>
 </p>
 
-
+<p align="center">
+  <img alt="nextjs-moe-counter" src="https://nextjs-moe-counter.vercel.app/api/counter?name=liuyuhe666.README&theme=asoul" />
+</p>
 
 <p align=center><strong>雄关漫道真如铁，而今迈步从头越</strong></p>
 
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/30/24, 10:20 AM<br>下一次刷新：7/1/24, 10:20 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/30/24, 10:54 AM<br>下一次刷新：7/1/24, 10:54 AM</p>
