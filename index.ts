@@ -5,16 +5,16 @@ import dayjs from 'dayjs';
 import MarkdownIt from 'markdown-it';
 import { minify } from 'html-minifier';
 import axios from 'axios';
-import * as rax from 'retry-axios'
+import * as rax from 'retry-axios';
 
 rax.attach();
 axios.defaults.raxConfig = {
   retry: 5,
   retryDelay: 4000,
   onRetryAttempt: (err) => {
-    const cfg = rax.getConfig(err)
-    console.log('request: \n', err.request)
-    console.log(`Retry attempt #${cfg.currentRetryAttempt}`)
+    const cfg = rax.getConfig(err);
+    console.log('request: \n', err.request);
+    console.log(`Retry attempt #${cfg.currentRetryAttempt}`);
   },
 };
 
@@ -40,26 +40,26 @@ function gc(token: keyof typeof COMMNETS) {
 }
 
 function m(html: TemplateStringsArray, ...args: any[]) {
-    const str = html.reduce((s, h, i) => s + h + (args[i] ?? ''), '')
+    const str = html.reduce((s, h, i) => s + h + (args[i] ?? ''), '');
     return minify(str, {
       removeAttributeQuotes: true,
       removeEmptyAttributes: true,
       removeTagWhitespace: true,
       collapseWhitespace: true,
-    }).trim()
+    }).trim();
 }
 
 type PostModel = {
     title: string,
     slug: string,
     summary: string,
-    created: string
+    created: string,
 }
 
 function generatePostItemHTML<T extends Partial<PostModel>>(item: T) {
     return m`<li><span>${dayjs(item.created).format('DD/MM/YYYY')} -  <a href="${
         Blog.url + '/' + item.slug
-    }">${item.title}</a></span></li>`
+    }">${item.title}</a></span></li>`;
 }
 
 async function main() {
@@ -75,7 +75,7 @@ async function main() {
                 title: cur.metadata.content.title,
                 slug: cur.metadata.content.slug,
                 summary: cur.metadata.content.summary,
-                created: cur.createdAt
+                created: cur.createdAt,
             };
             return acc.concat(generatePostItemHTML(post));
         }, '');
@@ -86,13 +86,13 @@ async function main() {
                 ${posts}
             </ul>
             `,
-          )
+        );
     }
 
     // 注入 FOOTER
     {
-        const now = new Date()
-        const next = dayjs().add(24, 'h').toDate()
+        const now = new Date();
+        const next = dayjs().add(24, 'h').toDate();
 
         newContent = newContent.replace(
             gc('FOOTER'),
@@ -111,15 +111,15 @@ async function main() {
                 timeZone,
                 })}</p>
             `,
-        )
+        );
     }
 
-    newContent = newContent.replace(gc('MOTTO'), motto)
-    await rm('./README.md', { force: true })
-    await writeFile('./README.md', newContent, { encoding: 'utf-8' })
+    newContent = newContent.replace(gc('MOTTO'), motto);
+    await rm('./README.md', { force: true });
+    await writeFile('./README.md', newContent, { encoding: 'utf-8' });
 
-    const result = md.render(newContent)
-    await writeFile('./index.html', result, { encoding: 'utf-8' })
+    const result = md.render(newContent);
+    await writeFile('./index.html', result, { encoding: 'utf-8' });
 }
 
 main();
