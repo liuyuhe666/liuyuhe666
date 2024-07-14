@@ -45,7 +45,7 @@
 
 <!-- recent_posts_inject -->
 
-## GitHub Stats
+## GitHub Stats [![wakatime](https://wakatime.com/badge/user/ae1e6205-1f63-4f22-9a61-f37f4952b925.svg)](https://wakatime.com/@ae1e6205-1f63-4f22-9a61-f37f4952b925)
 
 <table align="center">
   <tr>
