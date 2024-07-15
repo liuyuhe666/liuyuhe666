@@ -92,7 +92,9 @@
 </p>
 
 <p align="center">
-  <img alt="wakatime" src="https://wakatime.com/badge/user/ae1e6205-1f63-4f22-9a61-f37f4952b925.svg" />
+  <a href="https://wakatime.com/@liuyuhe">
+    <img alt="wakatime" src="https://wakatime.com/badge/user/ae1e6205-1f63-4f22-9a61-f37f4952b925.svg" />
+  </a>
 </p>
 
 <!-- motto -->
