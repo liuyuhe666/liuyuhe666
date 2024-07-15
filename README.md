@@ -92,9 +92,11 @@
 </p>
 
 <p align="center">
-  <img alt="wakatime" src="https://wakatime.com/badge/user/ae1e6205-1f63-4f22-9a61-f37f4952b925.svg" />
+  <a href="https://wakatime.com/@liuyuhe">
+    <img alt="wakatime" src="https://wakatime.com/badge/user/ae1e6205-1f63-4f22-9a61-f37f4952b925.svg" />
+  </a>
 </p>
 
 <p align=center><strong>雄关漫道真如铁，而今迈步从头越</strong></p>
 
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/15/24, 11:24 AM<br>下一次刷新：7/16/24, 11:24 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/15/24, 5:05 PM<br>下一次刷新：7/16/24, 5:05 PM</p>
