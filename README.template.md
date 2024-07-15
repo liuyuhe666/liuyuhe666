@@ -45,7 +45,7 @@
 
 <!-- recent_posts_inject -->
 
-## GitHub Stats [![wakatime](https://wakatime.com/badge/user/ae1e6205-1f63-4f22-9a61-f37f4952b925.svg)](https://wakatime.com/@ae1e6205-1f63-4f22-9a61-f37f4952b925)
+## GitHub Stats
 
 <table align="center">
   <tr>
@@ -89,6 +89,10 @@
 
 <p align="center">
   <img alt="nextjs-moe-counter" src="https://nextjs-moe-counter.vercel.app/api/counter?name=liuyuhe666.README&theme=asoul" />
+</p>
+
+<p align="center">
+  <img alt="wakatime" src="https://wakatime.com/badge/user/ae1e6205-1f63-4f22-9a61-f37f4952b925.svg" />
 </p>
 
 <!-- motto -->
