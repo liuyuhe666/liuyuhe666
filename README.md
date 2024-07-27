@@ -19,7 +19,7 @@
 
 ## Recent Writing ...
 
-<ul><li><span>23/07/2024 - <a href=https://hellolyh.xlog.app/Angular-ti-jiao-xin-xi-gui-fan>Angular 提交信息规范</a></span></li><li><span>21/07/2024 - <a href=https://hellolyh.xlog.app/-huo-qu-yi-zhang-er-ci-yuan-tu-pian>💕 获取一张二次元图片</a></span></li><li><span>20/07/2024 - <a href=https://hellolyh.xlog.app/Maven-sheng-ming-zhou-qi>Maven 生命周期</a></span></li><li><span>06/07/2024 - <a href=https://hellolyh.xlog.app/Git-xiu-gai-zui-jin-yi-ci-ti-jiao-de-xiao-xi>Git 修改最近一次提交的消息</a></span></li><li><span>03/07/2024 - <a href=https://hellolyh.xlog.app/UV-he-PV>UV 和 PV</a></span></li></ul>
+<ul><li><span>26/07/2024 - <a href=https://hellolyh.xlog.app/Spring-Data-Elasticsearch-he-Elasticsearch-de-ban-ben-jian-rong-xing>Spring Data Elasticsearch 和 Elasticsearch 的版本兼容性</a></span></li><li><span>26/07/2024 - <a href=https://hellolyh.xlog.app/Docker-an-zhuang-Redis>Docker 安装 Redis</a></span></li><li><span>23/07/2024 - <a href=https://hellolyh.xlog.app/Angular-ti-jiao-xin-xi-gui-fan>Angular 提交信息规范</a></span></li><li><span>21/07/2024 - <a href=https://hellolyh.xlog.app/-huo-qu-yi-zhang-er-ci-yuan-tu-pian>💕 获取一张二次元图片</a></span></li><li><span>20/07/2024 - <a href=https://hellolyh.xlog.app/Maven-sheng-ming-zhou-qi>Maven 生命周期</a></span></li></ul>
 
 ## GitHub Stats
 
@@ -75,4 +75,4 @@
 
 <p align=center><strong>雄关漫道真如铁，而今迈步从头越</strong></p>
 
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/26/24, 8:32 AM<br>下一次刷新：7/27/24, 8:32 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/27/24, 8:33 AM<br>下一次刷新：7/28/24, 8:33 AM</p>
