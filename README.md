@@ -19,7 +19,7 @@
 
 ## Recent Writing ...
 
-<ul><li><span>26/07/2024 - <a href=https://hellolyh.xlog.app/Spring-Data-Elasticsearch-he-Elasticsearch-de-ban-ben-jian-rong-xing>Spring Data Elasticsearch 和 Elasticsearch 的版本兼容性</a></span></li><li><span>26/07/2024 - <a href=https://hellolyh.xlog.app/Docker-an-zhuang-Redis>Docker 安装 Redis</a></span></li><li><span>23/07/2024 - <a href=https://hellolyh.xlog.app/Angular-ti-jiao-xin-xi-gui-fan>Angular 提交信息规范</a></span></li><li><span>21/07/2024 - <a href=https://hellolyh.xlog.app/-huo-qu-yi-zhang-er-ci-yuan-tu-pian>💕 获取一张二次元图片</a></span></li><li><span>20/07/2024 - <a href=https://hellolyh.xlog.app/Maven-sheng-ming-zhou-qi>Maven 生命周期</a></span></li></ul>
+<ul><li><span>29/07/2024 - <a href=https://hellolyh.xlog.app/Docker-an-zhuang-MySQL>Docker 安装 MySQL</a></span></li><li><span>29/07/2024 - <a href=https://hellolyh.xlog.app/44CQV1NMMuOAkUNvdWxkIG5vdCB3cml0ZSB2YWx1ZSB0byBrZXkgXFNPRlRXQVJFXENsYXNzZXNcRHJpdmVcc2hlbGxcV1NM>【WSL2】Could not write value to key \SOFTWARE\Classes\Drive\shell\WSL</a></span></li><li><span>26/07/2024 - <a href=https://hellolyh.xlog.app/Spring-Data-Elasticsearch-he-Elasticsearch-de-ban-ben-jian-rong-xing>Spring Data Elasticsearch 和 Elasticsearch 的版本兼容性</a></span></li><li><span>26/07/2024 - <a href=https://hellolyh.xlog.app/Docker-an-zhuang-Redis>Docker 安装 Redis</a></span></li><li><span>23/07/2024 - <a href=https://hellolyh.xlog.app/Angular-ti-jiao-xin-xi-gui-fan>Angular 提交信息规范</a></span></li></ul>
 
 ## GitHub Stats
 
@@ -75,4 +75,4 @@
 
 <p align=center><strong>雄关漫道真如铁，而今迈步从头越</strong></p>
 
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/29/24, 8:35 AM<br>下一次刷新：7/30/24, 8:35 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/30/24, 8:33 AM<br>下一次刷新：7/31/24, 8:33 AM</p>
