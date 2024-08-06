@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/liuyuhe666">
-    <img src="https://skillicons.dev/icons?i=java,go,py,ts,rust,nextjs,nestjs,vue,react,apple,linux,windows,docker,kubernetes,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,go,py,ts,rust,nextjs,nestjs,vue,react,apple,linux,windows,docker,kubernetes,git,github,githubactions,vscode,idea,gmail&perline=10" />
   </a>
 </p>
 
