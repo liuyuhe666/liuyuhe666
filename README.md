@@ -19,7 +19,7 @@
 
 ## Recent Writing ...
 
-<ul><li><span>16/08/2024 - <a href=https://hellolyh.xlog.app/jsDelivr-shua-xin-huan-cun>jsDelivr 刷新缓存</a></span></li><li><span>14/08/2024 - <a href=https://hellolyh.xlog.app/Docker-an-zhuang-PostgreSQL>Docker 安装 PostgreSQL</a></span></li><li><span>12/08/2024 - <a href=https://hellolyh.xlog.app/VSCode-shi-yong-JetBrains-Mono-zi-ti>VSCode 使用 JetBrains Mono 字体</a></span></li><li><span>06/08/2024 - <a href=https://hellolyh.xlog.app/GPG-mi-yao-de-dao-ru-yu-dao-chu>GPG 密钥的导入与导出</a></span></li><li><span>06/08/2024 - <a href=https://hellolyh.xlog.app/kong-zhi-he-bing-yun-suan-fu>空值合并运算符</a></span></li></ul>
+<ul><li><span>19/08/2024 - <a href=https://hellolyh.xlog.app/Arc-chang-yong-kuai-jie-jian-zong-jie>Arc 常用快捷键总结</a></span></li><li><span>16/08/2024 - <a href=https://hellolyh.xlog.app/jsDelivr-shua-xin-huan-cun>jsDelivr 刷新缓存</a></span></li><li><span>14/08/2024 - <a href=https://hellolyh.xlog.app/Docker-an-zhuang-PostgreSQL>Docker 安装 PostgreSQL</a></span></li><li><span>12/08/2024 - <a href=https://hellolyh.xlog.app/VSCode-shi-yong-JetBrains-Mono-zi-ti>VSCode 使用 JetBrains Mono 字体</a></span></li><li><span>06/08/2024 - <a href=https://hellolyh.xlog.app/GPG-mi-yao-de-dao-ru-yu-dao-chu>GPG 密钥的导入与导出</a></span></li></ul>
 
 ## GitHub Stats
 
@@ -75,4 +75,4 @@
 
 <p align=center><strong>雄关漫道真如铁，而今迈步从头越</strong></p>
 
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/19/24, 8:35 AM<br>下一次刷新：8/20/24, 8:35 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/20/24, 8:34 AM<br>下一次刷新：8/21/24, 8:34 AM</p>
