@@ -3,6 +3,7 @@
 - 👨‍💻 I'm always eager to learn new things 🌟
 - 🤝 I'm looking to connect with interesting people and collaborate on cool projects
 - 🔭 Read my [Blog](https://hellolyh.xlog.app) to learn more about me
+- 🔑 GPG key: [`ABA6AA235B1DEB89F63831F6FDB9D26CF8A02895`](https://keys.openpgp.org/vks/v1/by-fingerprint/ABA6AA235B1DEB89F63831F6FDB9D26CF8A02895)
 - 💬 Ask me about anything [here](https://github.com/liuyuhe666/liuyuhe666/issues)
 - 📫 Talk with me by [Email](mailto:cnliuyuhe@gmail.com)
 
@@ -75,4 +76,4 @@
 
 <p align=center><strong>雄关漫道真如铁，而今迈步从头越</strong></p>
 
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/20/24, 8:34 AM<br>下一次刷新：8/21/24, 8:34 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/20/24, 11:50 AM<br>下一次刷新：8/21/24, 11:50 AM</p>
