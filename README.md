@@ -20,7 +20,7 @@
 
 ## Recent Writing ...
 
-<ul><li><span>24/08/2024 - <a href=https://hellolyh.xlog.app/jiang-NCM-wen-jian-zhuan-huan-wei-MP3-wen-jian>将 NCM 文件转换为 MP3 文件</a></span></li><li><span>20/08/2024 - <a href=https://hellolyh.xlog.app/Windows-xi-tong-she-zhi-GPG-Agent-huan-cun>Windows 系统设置 GPG-Agent 缓存</a></span></li><li><span>19/08/2024 - <a href=https://hellolyh.xlog.app/Arc-chang-yong-kuai-jie-jian-zong-jie>Arc 常用快捷键总结</a></span></li><li><span>16/08/2024 - <a href=https://hellolyh.xlog.app/jsDelivr-shua-xin-huan-cun>jsDelivr 刷新缓存</a></span></li><li><span>14/08/2024 - <a href=https://hellolyh.xlog.app/Docker-an-zhuang-PostgreSQL>Docker 安装 PostgreSQL</a></span></li></ul>
+<ul><li><span>27/08/2024 - <a href=https://hellolyh.xlog.app/dao-zhi-MySQL-suo-yin-shi-xiao-de-chang-jian-chang-jing>导致 MySQL 索引失效的常见场景</a></span></li><li><span>24/08/2024 - <a href=https://hellolyh.xlog.app/jiang-NCM-wen-jian-zhuan-huan-wei-MP3-wen-jian>将 NCM 文件转换为 MP3 文件</a></span></li><li><span>20/08/2024 - <a href=https://hellolyh.xlog.app/Windows-xi-tong-she-zhi-GPG-Agent-huan-cun>Windows 系统设置 GPG-Agent 缓存</a></span></li><li><span>19/08/2024 - <a href=https://hellolyh.xlog.app/Arc-chang-yong-kuai-jie-jian-zong-jie>Arc 常用快捷键总结</a></span></li><li><span>16/08/2024 - <a href=https://hellolyh.xlog.app/jsDelivr-shua-xin-huan-cun>jsDelivr 刷新缓存</a></span></li></ul>
 
 ## GitHub Stats
 
@@ -76,4 +76,4 @@
 
 <p align=center><strong>雄关漫道真如铁，而今迈步从头越</strong></p>
 
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/27/24, 8:34 AM<br>下一次刷新：8/28/24, 8:34 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/28/24, 8:34 AM<br>下一次刷新：8/29/24, 8:34 AM</p>
