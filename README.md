@@ -42,14 +42,14 @@
     <td>
       <picture>
         <source
-          srcset="https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&theme=dark&hide_border=true"
+          srcset="https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&hide_border=true"
+          srcset="https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&hide_border=true"/>
+        <img src="https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5"/>
       </picture>
     </td>
   </tr>
@@ -76,4 +76,4 @@
 
 <p align=center><strong>雄关漫道真如铁，而今迈步从头越</strong></p>
 
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/10/24, 8:36 AM<br>下一次刷新：9/11/24, 8:36 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/10/24, 9:04 PM<br>下一次刷新：9/11/24, 9:04 PM</p>
