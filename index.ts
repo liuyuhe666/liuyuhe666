@@ -118,7 +118,7 @@ async function main() {
     await rm('./README.md', { force: true });
     await writeFile('./README.md', newContent, { encoding: 'utf-8' });
 
-    const result = md.render(newContent);
+    const result = m`${md.render(newContent)}`;
     await writeFile('./index.html', result, { encoding: 'utf-8' });
 }
 

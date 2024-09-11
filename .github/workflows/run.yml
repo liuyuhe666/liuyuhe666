@@ -1,44 +1,35 @@
-name: README build
+name: generate README
 
 on:
   push:
     branches:
       - main
   schedule:
-    - cron: '0 */24 * * *'
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
-  build:
+  generate-readme:
     runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [20.x]
-
     steps:
-      - uses: actions/checkout@v2
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v2
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: ${{ matrix.node-version }}
-      - name: Cache pnpm modules
-        uses: actions/cache@v2
-        env:
-          cache-name: cache-pnpm-modules
-        with:
-          path: ~/.pnpm-store
-          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ matrix.node-version }}-${{ hashFiles('**/pnpm-lock.yaml') }}
-          restore-keys: |
-            ${{ runner.os }}-build-${{ env.cache-name }}-${{ matrix.node-version }}-
+          node-version: 20
+          cache: pnpm
 
-      - uses: pnpm/action-setup@v4.0.0
-        with:
-          run_install: true
-      - name: Build project
+      - name: Install
+        run: pnpm install
+
+      - name: Run
         run: |
-          npm run build
-      - name: Push new README.md
-        uses: mikeal/publish-to-github-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_NAME: main
+          pnpm run build
+
+      - name: Push
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m "docs: update README" || exit 0
+          git push origin main

@@ -14,7 +14,7 @@ on:
       - main
 
 jobs:
-  generate:
+  generate-snake-svg:
     permissions: 
       contents: write
     runs-on: ubuntu-latest
