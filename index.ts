@@ -92,12 +92,12 @@ async function main() {
     // 注入 FOOTER
     {
         const now = new Date();
-        const next = dayjs().add(24, 'h').toDate();
+        const next = dayjs().add(12, 'h').toDate();
 
         newContent = newContent.replace(
             gc('FOOTER'),
             m`
-                <p align="center">此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！
+                <p align="center">此文件 <i>README.md</i> <b>间隔 12 小时</b>自动刷新生成！
                 </br>
                 刷新于：${now.toLocaleString(undefined, {
                 timeStyle: 'short',
