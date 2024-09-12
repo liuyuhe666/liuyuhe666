@@ -1,7 +1,9 @@
 import { readFile, rm, writeFile } from 'fs/promises';
-import { motto, timeZone, Blog } from './config';
+import { motto, timeZone, Blog, updateInterval } from './config';
 import { COMMNETS } from './constants';
 import dayjs from 'dayjs';
+import timezone from 'dayjs/plugin/timezone';
+import utc from 'dayjs/plugin/utc';
 import MarkdownIt from 'markdown-it';
 import { minify } from 'html-minifier';
 import axios from 'axios';
@@ -17,6 +19,9 @@ axios.defaults.raxConfig = {
     console.log(`Retry attempt #${cfg.currentRetryAttempt}`);
   },
 };
+
+dayjs.extend(utc);
+dayjs.extend(timezone);
 
 const userAgent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36';
 axios.defaults.headers.common['User-Agent'] = userAgent;
@@ -91,25 +96,17 @@ async function main() {
 
     // 注入 FOOTER
     {
-        const now = new Date();
-        const next = dayjs().add(12, 'h').toDate();
+        const now = dayjs().tz(timeZone);
+        const next = now.add(updateInterval, 'hour');
 
         newContent = newContent.replace(
             gc('FOOTER'),
             m`
-                <p align="center">此文件 <i>README.md</i> <b>间隔 12 小时</b>自动刷新生成！
+                <p align="center">此文件 <i>README.md</i> <b>间隔 ${updateInterval} 小时</b>自动刷新生成！
                 </br>
-                刷新于：${now.toLocaleString(undefined, {
-                timeStyle: 'short',
-                dateStyle: 'short',
-                timeZone,
-                })}
+                刷新于：${now.format('YYYY-MM-DD HH:mm')}
                 <br/>
-                下一次刷新：${next.toLocaleString(undefined, {
-                timeStyle: 'short',
-                dateStyle: 'short',
-                timeZone,
-                })}</p>
+                下一次刷新：${next.format('YYYY-MM-DD HH:mm')}</p>
             `,
         );
     }
