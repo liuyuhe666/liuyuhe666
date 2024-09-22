@@ -20,7 +20,7 @@
 
 ## Recent Writing ...
 
-<ul><li><span>08/09/2024 - <a href=https://hellolyh.xlog.app/Redis-huan-cun-xue-beng--huan-cun-ji-chuan--huan-cun-chuan-tou-de-jie-jue-fang-an>Redis 缓存雪崩、缓存击穿、缓存穿透的解决方案</a></span></li><li><span>03/09/2024 - <a href=https://hellolyh.xlog.app/Java-shi-xian-dan-li-mo-shi>Java 实现单例模式</a></span></li><li><span>28/08/2024 - <a href=https://hellolyh.xlog.app/mian-xiang-dui-xiang-bian-cheng-zhong-de-liu-da-yuan-ze>面向对象编程中的六大原则</a></span></li><li><span>27/08/2024 - <a href=https://hellolyh.xlog.app/dao-zhi-MySQL-suo-yin-shi-xiao-de-chang-jian-chang-jing>导致 MySQL 索引失效的常见场景</a></span></li><li><span>24/08/2024 - <a href=https://hellolyh.xlog.app/jiang-NCM-wen-jian-zhuan-huan-wei-MP3-wen-jian>将 NCM 文件转换为 MP3 文件</a></span></li></ul>
+<ul><li><span>22/09/2024 - <a href=https://hellolyh.xlog.app/shi-yong-mian-mi-GPG-mi-yao>使用免密 GPG 密钥</a></span></li><li><span>08/09/2024 - <a href=https://hellolyh.xlog.app/Redis-huan-cun-xue-beng--huan-cun-ji-chuan--huan-cun-chuan-tou-de-jie-jue-fang-an>Redis 缓存雪崩、缓存击穿、缓存穿透的解决方案</a></span></li><li><span>03/09/2024 - <a href=https://hellolyh.xlog.app/Java-shi-xian-dan-li-mo-shi>Java 实现单例模式</a></span></li><li><span>28/08/2024 - <a href=https://hellolyh.xlog.app/mian-xiang-dui-xiang-bian-cheng-zhong-de-liu-da-yuan-ze>面向对象编程中的六大原则</a></span></li><li><span>27/08/2024 - <a href=https://hellolyh.xlog.app/dao-zhi-MySQL-suo-yin-shi-xiao-de-chang-jian-chang-jing>导致 MySQL 索引失效的常见场景</a></span></li></ul>
 
 ## GitHub Stats
 
@@ -76,4 +76,4 @@
 
 <p align=center><strong>雄关漫道真如铁，而今迈步从头越</strong></p>
 
-<p align=center>此文件 <i>README.md</i> <b>间隔 12 小时</b>自动刷新生成！<br>刷新于：2024-09-22 09:21<br>下一次刷新：2024-09-22 21:21</p>
+<p align=center>此文件 <i>README.md</i> <b>间隔 12 小时</b>自动刷新生成！<br>刷新于：2024-09-22 20:29<br>下一次刷新：2024-09-23 08:29</p>
