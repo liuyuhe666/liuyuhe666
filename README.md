@@ -20,7 +20,7 @@
 
 ## Recent Writing ...
 
-<ul><li><span>28/09/2024 - <a href=https://hellolyh.xlog.app/Java-zhong-de-fang-wen-xiu-shi-fu>Java 中的访问修饰符</a></span></li><li><span>22/09/2024 - <a href=https://hellolyh.xlog.app/shi-yong-mian-mi-GPG-mi-yao>使用免密 GPG 密钥</a></span></li><li><span>08/09/2024 - <a href=https://hellolyh.xlog.app/Redis-huan-cun-xue-beng--huan-cun-ji-chuan--huan-cun-chuan-tou-de-jie-jue-fang-an>Redis 缓存雪崩、缓存击穿、缓存穿透的解决方案</a></span></li><li><span>03/09/2024 - <a href=https://hellolyh.xlog.app/Java-shi-xian-dan-li-mo-shi>Java 实现单例模式</a></span></li><li><span>28/08/2024 - <a href=https://hellolyh.xlog.app/mian-xiang-dui-xiang-bian-cheng-zhong-de-liu-da-yuan-ze>面向对象编程中的六大原则</a></span></li></ul>
+<ul><li><span>16/10/2024 - <a href=https://hellolyh.xlog.app/Follow-Feed-Claim>Follow Feed Claim</a></span></li><li><span>28/09/2024 - <a href=https://hellolyh.xlog.app/Java-zhong-de-fang-wen-xiu-shi-fu>Java 中的访问修饰符</a></span></li><li><span>22/09/2024 - <a href=https://hellolyh.xlog.app/shi-yong-mian-mi-GPG-mi-yao>使用免密 GPG 密钥</a></span></li><li><span>08/09/2024 - <a href=https://hellolyh.xlog.app/Redis-huan-cun-xue-beng--huan-cun-ji-chuan--huan-cun-chuan-tou-de-jie-jue-fang-an>Redis 缓存雪崩、缓存击穿、缓存穿透的解决方案</a></span></li><li><span>03/09/2024 - <a href=https://hellolyh.xlog.app/Java-shi-xian-dan-li-mo-shi>Java 实现单例模式</a></span></li></ul>
 
 ## GitHub Stats
 
@@ -76,4 +76,4 @@
 
 <p align=center><strong>雄关漫道真如铁，而今迈步从头越</strong></p>
 
-<p align=center>此文件 <i>README.md</i> <b>间隔 12 小时</b>自动刷新生成！<br>刷新于：2024-10-16 20:33<br>下一次刷新：2024-10-17 08:33</p>
+<p align=center>此文件 <i>README.md</i> <b>间隔 12 小时</b>自动刷新生成！<br>刷新于：2024-10-17 09:16<br>下一次刷新：2024-10-17 21:16</p>
