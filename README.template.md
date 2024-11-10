@@ -42,14 +42,14 @@
     <td>
       <picture>
         <source
-          srcset="https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5&hide=html,css"
+          srcset="https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5&hide=css,html"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&hide=html,css"
+          srcset="https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&hide=css,html"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&hide=html,css"/>
+        <img src="https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&hide=css,html"/>
       </picture>
     </td>
   </tr>
