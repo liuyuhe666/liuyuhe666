@@ -42,14 +42,14 @@
     <td>
       <picture>
         <source
-          srcset="https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5&hide=css,html"
+          srcset="https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5&hide=css%2Chtml"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&hide=css,html"
+          srcset="https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&hide=css%2Chtml"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&hide=css,html"/>
+        <img src="https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&hide=css%2Chtml"/>
       </picture>
     </td>
   </tr>
@@ -76,4 +76,4 @@
 
 <p align=center><strong>雄关漫道真如铁，而今迈步从头越</strong></p>
 
-<p align=center>此文件 <i>README.md</i> <b>间隔 12 小时</b>自动刷新生成！<br>刷新于：2024-11-10 15:11<br>下一次刷新：2024-11-11 03:11</p>
+<p align=center>此文件 <i>README.md</i> <b>间隔 12 小时</b>自动刷新生成！<br>刷新于：2024-11-10 15:22<br>下一次刷新：2024-11-11 03:22</p>
