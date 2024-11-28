@@ -1,0 +1,30 @@
+name: 'blog feed ci'
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.feed.outputs.changed }}
+      items: ${{ steps.feed.outputs.items }}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
+        id: feed
+        with:
+          url: |
+            https://hellolyh.xlog.app/feed
+          file: 'README.md'
+          timezone: 'Asia/Shanghai'
+          ensure_all: true
+      - name: push
+        if: steps.feed.outputs.changed == true
+        id: commit
+        uses: sarisia/actions-commit@master
+        with:
+          name: github-actions[bot]
+          email: github-actions[bot]@users.noreply.github.com
+          message: "docs: update README.md"        

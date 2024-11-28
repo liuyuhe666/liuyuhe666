@@ -1,14 +1,10 @@
 name: generate snake svg
 
 on:
-  # run automatically every 4 hours
   schedule:
     - cron: "0 */4 * * *"
-
-  # allows to manually run the job at any time
   workflow_dispatch:
 
-  # run on every push on the master branch
   push:
     branches:
       - main

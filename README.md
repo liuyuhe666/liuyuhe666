@@ -18,9 +18,10 @@
 
 
 
-## Recent Writing ...
+## Recent Posts on [xLog](https://hellolyh.xlog.app)
 
-<ul><li><span>23/11/2024 - <a href=https://hellolyh.xlog.app/yi-zhi-xing-ha-xi-suan-fa>一致性哈希算法</a></span></li><li><span>22/11/2024 - <a href=https://hellolyh.xlog.app/syncMutex-he-syncRWMutex-de-qu-bie>sync.Mutex 和 sync.RWMutex 的区别</a></span></li><li><span>10/11/2024 - <a href=https://hellolyh.xlog.app/go-test-yun-hang-dang-qian-xiang-mu-xia-de-suo-you-ce-shi>go test 运行当前项目下的所有测试</a></span></li><li><span>01/11/2024 - <a href=https://hellolyh.xlog.app/jie-jue-Windows-xi-tong-xia-go-sqlite3-requires-cgo-to-work>解决 Windows 系统下 go-sqlite3 requires cgo to work</a></span></li><li><span>16/10/2024 - <a href=https://hellolyh.xlog.app/Follow-Feed-Claim>Follow Feed Claim</a></span></li></ul>
+<!-- feed start -->
+<!-- feed end -->
 
 ## GitHub Stats
 
@@ -75,5 +76,3 @@
 </p>
 
 <p align=center><strong>雄关漫道真如铁，而今迈步从头越</strong></p>
-
-<p align=center>此文件 <i>README.md</i> <b>间隔 12 小时</b>自动刷新生成！<br>刷新于：2024-11-27 20:35<br>下一次刷新：2024-11-28 08:35</p>
