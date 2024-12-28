@@ -21,11 +21,11 @@
 ## Recent Posts on [xLog](https://hellolyh.xlog.app)
 
 <!-- feed start -->
+- Dec 28 - [JavaScript 中 ，reduce 函数的用法](https://xlog.app/api/redirection?characterId=59997&noteId=81)
 - Nov 23 - [一致性哈希算法](https://xlog.app/api/redirection?characterId=59997&noteId=80)
 - Nov 22 - [sync.Mutex 和 sync.RWMutex 的区别](https://xlog.app/api/redirection?characterId=59997&noteId=79)
 - Nov 10 - [go test 运行当前项目下的所有测试](https://xlog.app/api/redirection?characterId=59997&noteId=78)
 - Nov 01 - [解决 Windows 系统下 go-sqlite3 requires cgo to work](https://xlog.app/api/redirection?characterId=59997&noteId=77)
-- Oct 16 - [Follow Feed Claim](https://xlog.app/api/redirection?characterId=59997&noteId=74)
 <!-- feed end -->
 
 ## GitHub Stats
