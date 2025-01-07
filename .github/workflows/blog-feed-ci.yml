@@ -16,7 +16,7 @@ jobs:
         id: feed
         with:
           url: |
-            https://hellolyh.xlog.app/feed
+            https://my-api-by-deno.deno.dev/api/proxy?url=https://hellolyh.xlog.app/feed
           file: 'README.md'
           timezone: 'Asia/Shanghai'
           ensure_all: true
