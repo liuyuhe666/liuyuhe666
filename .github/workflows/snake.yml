@@ -4,11 +4,7 @@ on:
   schedule:
     - cron: "0 */4 * * *"
   workflow_dispatch:
-
-  push:
-    branches:
-      - main
-
+  
 jobs:
   generate-snake-svg:
     permissions: 
