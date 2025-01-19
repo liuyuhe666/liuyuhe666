@@ -2,7 +2,7 @@
 
 - 👨‍💻 I'm always eager to learn new things 🌟
 - 🤝 I'm looking to connect with interesting people and collaborate on cool projects
-- 🔭 Read my [Blog](https://hellolyh.xlog.app) to learn more about me
+- 🔭 Read my [Blog](https://liuyuhe666.github.io) to learn more about me
 - 🔑 GPG key: [`ABA6AA235B1DEB89F63831F6FDB9D26CF8A02895`](https://keys.openpgp.org/vks/v1/by-fingerprint/ABA6AA235B1DEB89F63831F6FDB9D26CF8A02895)
 - 💬 Ask me about anything [here](https://github.com/liuyuhe666/liuyuhe666/issues)
 - 📫 Talk with me by [Email](mailto:cnliuyuhe@gmail.com)
@@ -69,3 +69,4 @@
 </p>
 
 <p align=center><strong>雄关漫道真如铁，而今迈步从头越</strong></p>
+<p align="center"><a href="https://github.com/lyh-gzh/buy-me-a-coffee" target="_blank">☕ Buy me a coffee</a></p>
