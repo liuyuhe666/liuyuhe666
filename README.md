@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img alt="nextjs-moe-counter" src="https://nextjs-moe-counter.vercel.app/api/counter?name=liuyuhe666.README&theme=asoul" />
+  <img alt="nextjs-moe-counter" src="https://nextjs-moe-counter.vercel.app/api/counter?name=liuyuhe666.liuyuhe666.README.md&theme=asoul" />
 </p>
 
 <p align="center">
@@ -68,5 +68,5 @@
   </a>
 </p>
 
-<p align=center><strong>雄关漫道真如铁，而今迈步从头越</strong></p>
+<p align=center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%E9%9B%84%E5%85%B3%E6%BC%AB%E9%81%93%E7%9C%9F%E5%A6%82%E9%93%81%EF%BC%8C%E8%80%8C%E4%BB%8A%E8%BF%88%E6%AD%A5%E4%BB%8E%E5%A4%B4%E8%B6%8A" alt="Typing SVG" /></a></p>
 <p align="center"><a href="https://github.com/lyh-gzh/buy-me-a-coffee" target="_blank">☕ Buy me a coffee</a></p>
