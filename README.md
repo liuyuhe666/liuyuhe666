@@ -65,3 +65,5 @@
 <p align="center">
   <a href="https://github.com/lyh-gzh/buy-me-a-coffee">☕ Buy me a coffee</a>
 </p>
+
+![footer.svg](./assets/footer.svg)
