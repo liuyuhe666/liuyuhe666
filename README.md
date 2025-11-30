@@ -18,30 +18,10 @@
 <table align="center">
   <tr>
     <td>
-      <picture>
-        <source
-          srcset="https://github-readme-stats-blond-nine-25.vercel.app/api?username=liuyuhe666&show_icons=true&theme=dark&hide_border=true"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats-blond-nine-25.vercel.app/api?username=liuyuhe666&show_icons=true&hide_border=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img alt="https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats-blond-nine-25.vercel.app/api?username=liuyuhe666&show_icons=true&hide_border=true"/>
-      </picture>
+        <img alt="https://github.com/anuraghazra/github-readme-stats" src="https://raw.githubusercontent.com/liuyuhe666/liuyuhe666/refs/heads/github-readme-stats/left.svg"/>
     </td>
     <td>
-      <picture>
-        <source
-          srcset="https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5&hide=css%2Chtml%2CMarkdown"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&hide=css%2Chtml%2CMarkdown"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img alt="https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&hide=css%2Chtml%2CMarkdown"/>
-      </picture>
+        <img alt="https://github.com/anuraghazra/github-readme-stats" src="https://raw.githubusercontent.com/liuyuhe666/liuyuhe666/refs/heads/github-readme-stats/right.svg"/>
     </td>
   </tr>
 </table>
