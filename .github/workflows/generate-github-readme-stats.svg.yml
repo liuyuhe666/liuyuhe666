@@ -1,0 +1,28 @@
+name: generate github-readme-stats.svg
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate-github-readme-stats-svg:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: generate github-readme-stats.svg
+        run: |
+          mkdir dist
+          wget -O ./dist/left.svg https://github-readme-stats-blond-nine-25.vercel.app/api?username=liuyuhe666&show_icons=true&hide_border=true
+          wget -O ./dist/right.svg https://github-readme-stats-blond-nine-25.vercel.app/api/top-langs/?username=liuyuhe666&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&hide=css%2Chtml%2CMarkdown
+
+      - name: push github-readme-stats.svg
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: github-readme-stats
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
