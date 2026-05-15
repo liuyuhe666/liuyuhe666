@@ -6,6 +6,7 @@
 - 🔑 GPG key: [`ABA6AA235B1DEB89F63831F6FDB9D26CF8A02895`](https://keys.openpgp.org/vks/v1/by-fingerprint/ABA6AA235B1DEB89F63831F6FDB9D26CF8A02895)
 - 💬 Ask me about anything [here](https://github.com/liuyuhe666/liuyuhe666/issues)
 - 📫 Talk with me by [Email](mailto:cnliuyuhe@gmail.com)
+- 💰Support my work on [爱发电](https://afdian.com/a/liuyuhe666)
 
 ## Languages and Tools
 
